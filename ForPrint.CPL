@@ -1,0 +1,11 @@
+program ForPrint
+bgn
+let int:a;
+ string: d; 
+ d="Pls enter a number ";
+ out(d);
+ read(a);
+/* Printing numbers between 1 and a*/
+ foreach i=1:a with i=i+1
+out(i);
+end

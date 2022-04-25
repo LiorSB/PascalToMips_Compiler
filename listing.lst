@@ -1,0 +1,11 @@
+1.	program ForPrint
+2.	bgn
+3.	let int:a;
+4.	 string: d; 
+5.	 d="Pls enter a number ";
+6.	 out(d);
+7.	 read(a);
+8.	
+9.	 foreach i=1:a with i=i+1
+10.	out(i);
+11.	end
