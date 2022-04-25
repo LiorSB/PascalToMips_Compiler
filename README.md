@@ -24,6 +24,7 @@ The mips.s file you may run in MARS.
 ![image](https://user-images.githubusercontent.com/92099051/165169665-67ebacf8-712a-4c2c-94fd-b8f9537af3de.png)
 
 ### Error example:
+Not declaring a variable and not ending a line with ';'
 
 ![image](https://user-images.githubusercontent.com/92099051/165170725-de2a9881-3e12-43f4-a603-c50b90032a58.png)
 
