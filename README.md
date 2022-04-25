@@ -9,7 +9,7 @@ The CPL file must be written in Pascal syntax to compile to mips, otherwise only
 In case everything runs well the out will be two files: listing.lst and mips.s.
 The mips.s file you may run in MARS.
 
-### Successful example:
+### **Successful example:**
 
 ![image](https://user-images.githubusercontent.com/92099051/165169184-18bd6e80-058e-4bd6-a729-14a5686d337e.png)
 
@@ -23,7 +23,7 @@ The mips.s file you may run in MARS.
 
 ![image](https://user-images.githubusercontent.com/92099051/165169665-67ebacf8-712a-4c2c-94fd-b8f9537af3de.png)
 
-### Error example:
+### **Error example:**
 Not declaring a variable and not ending a line with ';'
 
 ![image](https://user-images.githubusercontent.com/92099051/165170725-de2a9881-3e12-43f4-a603-c50b90032a58.png)
